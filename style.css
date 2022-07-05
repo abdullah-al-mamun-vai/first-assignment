@@ -238,9 +238,11 @@ header {
 }
 
 .message-form textarea {
-    width: 785px;
+    max-width: 766px;
+    min-width: 766px;
     display: block;
-    height: 200px;
+    max-height: 200px;
+    min-height: 200px;
     border: 2px solid #43ebc6;
     margin-left: 5px;
 }
