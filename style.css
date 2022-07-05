@@ -280,8 +280,9 @@ footer small {
 
 }
 
-footer small span {
+footer small a {
     color: #43ebc6;
+    text-decoration: none;
 }
 
 /* footer area end  */
